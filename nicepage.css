@@ -41003,6 +41003,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-btn-1 {
   background-image: none;
+  font-size: 1.25rem;
 }
 
 .u-header .u-text-2 {
@@ -41013,6 +41014,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-btn-2 {
   background-image: none;
+  font-size: 1.25rem;
 }
 
 .u-header .u-text-3 {
@@ -41023,20 +41025,9 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-btn-3 {
   background-image: none;
+  font-size: 1.25rem;
 }
-@media (max-width: 1199px) {
-  .u-header .u-btn-1 {
-    font-size: 1.25rem;
-  }
 
-  .u-header .u-btn-2 {
-    font-size: 1.25rem;
-  }
-
-  .u-header .u-btn-3 {
-    font-size: 1.25rem;
-  }
-}
 
 @media (max-width: 767px) {
   .u-header .u-sheet-1 {
